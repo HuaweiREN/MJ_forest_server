@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "openapi": []
+  },
+  "triggers": [
+    {
+      "name": "roundUpdateTrigger",
+      "type": "timer",
+      "config": "35 59 * * * * *"
+    }
+  ]
+}
