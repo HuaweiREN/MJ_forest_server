@@ -1,11 +1,11 @@
 # MJ_forest_server
  
-Achievement: Wechat Mini-game Top 20 teams (out of 644 teams in total)
-Platform: WeChat Mini-game
-Engine: WeChat Developer Tool
-Language: Javascript
-Author: JZR, RHW
-Email: ravidren@126.com
+Achievement: Wechat Mini-game Top 20 teams (out of 644 teams in total)  
+Platform: WeChat Mini-game  
+Engine: WeChat Developer Tool  
+Language: Javascript  
+Author: JZR, RHW  
+Email: ravidren@126.com  
 For applying internal testing authorization, please use WeChat and scan the QR Code down below.  
 
 <img src="https://github.com/HuaweiREN/MJ_Forest/blob/master/pics/QR%20Code.png" width = "200" alt="" align=center />
