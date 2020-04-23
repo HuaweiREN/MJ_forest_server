@@ -18,6 +18,8 @@ url: https://github.com/HuaweiREN/MJ_Forest
 
 In this repository, server code is included. If you want to implement it to your project. Please feel free to deploy them on your WeChat developer tool.
 
+NOTE: you have to also add "node_modules" file into each file package. You can download the "node_modules" automatically because it is embedded in the WeChat Developer Tool -> Clound Function.
+
 # Attachments:
 ## Introduction
 
